@@ -70,3 +70,5 @@ To evaluate the functionality, performance, and usability of the "Forgot Passwor
 ## 8. Test Summary Report:
 
 A detailed report summarizing the number of test cases executed, passed, failed, and the defects logged, along with their severity.
+
+---
